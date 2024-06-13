@@ -1,0 +1,1 @@
+MAX_CONSTANTS = 10
